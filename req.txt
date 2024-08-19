@@ -1,0 +1,18 @@
+sudo apt-get install ros-noetic-ros-controllers
+
+pip install scipy
+
+pip install scikit-learn
+
+pip install progress
+
+pip install scikit-image
+
+pip install testresources
+
+#这里和代码有关，pymodbus在3.0版本后不再支持pymodbus.client.sync写法
+pip install pymodbus==2.5.3
+
+#这里和代码有关，Pillow在10.0版本后不再支持textsize写法
+pip install Pillow==9.5.0
+

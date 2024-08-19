@@ -1,0 +1,8 @@
+prefix=/home/cn/NeuralSymbol_AI_for_task2/devel
+
+Name: ur_control
+Description: Description of ur_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

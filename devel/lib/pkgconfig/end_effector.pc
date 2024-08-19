@@ -1,0 +1,8 @@
+prefix=/home/cn/NeuralSymbol_AI_for_task2/devel
+
+Name: end_effector
+Description: Description of end_effector
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

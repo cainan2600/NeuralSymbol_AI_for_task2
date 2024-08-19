@@ -1,0 +1,8 @@
+prefix=/home/cn/NeuralSymbol_AI_for_task2/devel
+
+Name: example_organization_ur_launch
+Description: Description of example_organization_ur_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
